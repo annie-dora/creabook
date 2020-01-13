@@ -1,0 +1,127 @@
+.header1{
+    background-image: url(../images/bg.PNG);
+}
+a{
+    color: blue !important;
+}
+.inside{
+    background-color: transparent !important;
+    border: none !important;
+    color: blue !important;
+}
+.out{
+    border: 1px solid palevioletred !important;
+    border-radius: 20px !important;
+    color: palevioletred !important;
+}
+.but{
+    background-color: darkorange;
+    color: white;
+    /* padding: 10px 20px; */
+    border-radius: 20px;
+    border: none;
+    box-shadow: 2px 2px 3px 3px rgb(167, 109, 40);
+}
+.orange{
+    color: darkgoldenrod;
+}
+.first{
+    text-align: center;
+}
+.header2{
+    background-color: rgb(195, 224, 224);
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px gray;
+    text-align: center;
+}
+.services{
+    text-align: center;
+}
+.header3{
+    background-color: white;
+}.learn{
+background-color: darkorange;
+color: white;
+/* padding: 10px 20px; */
+border-radius: 20px;
+border: none;
+box-shadow: 2px 2px 3px 3px rgb(167, 109, 40);
+}
+/* .col{
+     background-color: white;
+     margin: 10px 10px;
+}
+.icon{
+    align-items: center;
+} */
+.header4{
+    background-color: rgb(187, 185, 185);
+}
+.testi{
+    text-align: center;
+}
+.header5{
+    background-color: white;
+}
+.header6{
+     background-color: rgb(88, 85, 145); 
+     text-align: center;
+}
+.our{
+    text-align: center;
+}
+.header7{
+    background-color: white;
+}
+.blog{
+    text-align: center;
+}
+.header8{
+    background-color: white;
+    text-align: center;
+}
+.subscribe{
+   background-color: rgba(247, 223, 233, 0.596);
+   border-radius: 20px;
+}     
+.header9{
+    background-color: white;
+}
+.fot{
+    color: midnightblue;
+}
+.header10{
+    background-color: blueviolet;
+}
+.foot{
+    color: white;
+}
+.icons{
+    margin-left: auto;
+    /* padding: 0px 10px; */
+}
+.angel{
+    color: rgb(255, 20, 71);
+}
+.email{
+    width: 300px;
+    height: 50px;
+    border: none;
+    border-radius: 25px;
+    position: relative;
+}
+::placeholder{
+    color: grey;
+    /* padding-left: 20px; */
+}
+.card-titles{
+    color: crimson;
+}
+.ico{
+    text-align: center;
+}
+.far{
+    color: darkorange;
+}
